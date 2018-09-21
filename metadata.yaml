@@ -1,0 +1,29 @@
+_repo: Thomas-Campbell_53898
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hadden, J. Cuthbert (James Cuthbert)
+    aliases:
+    - Hadden, J. C. (James Cuthbert)
+    - Hadden, James Cuthbert
+    birthdate: 1861
+    deathdate: 1914
+    gutenberg_agent_id: '1306'
+    url: http://www.gutenberg.org/2009/agents/1306
+    wikipedia: http://en.wikipedia.org/wiki/James_Cuthbert_Hadden
+description: Famous Scots Series, 31
+gutenberg_issued: '2017-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53898'
+  lccn: 03012929
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Campbell, Thomas, 1777-1844'
+- !lcc 'PR'
+- GITenberg
+title: Thomas Campbell
+url: http://www.gutenberg.org/ebooks/53898
